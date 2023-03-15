@@ -1,0 +1,17 @@
+[{
+  "_id": "00001",
+  "Equipos a enfrentarse": "Jaguares VS Leopardos",
+  "Ganador": "Jaguares"
+},{
+  "_id": "00002",
+  "Equipos a enfrentarse": "Gaviotas VS Panteras",
+  "Ganador": "Panteras"
+},{
+  "_id": "00003",
+  "Equipos a enfrentarse": "Aguilas VS Leones",
+  "Ganador": "Aguilas"
+},{
+  "_id": "00004",
+  "Equipos a enfrentarse": "Toros VS Escorpiones",
+  "Ganador": "Toros"
+}]

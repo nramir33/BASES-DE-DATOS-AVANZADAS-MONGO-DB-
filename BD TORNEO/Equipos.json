@@ -1,0 +1,41 @@
+[{
+  "_id": "00001",
+  "Nombre del equipo": "Jaguares",
+  "Capitan": "Juan Carlos Gomez Valenzuela",
+  "Cantidad de integrantes": "8"
+},{
+  "_id": "00002",
+  "Nombre del equipo": "Leopardos",
+  "Capitan": "Bernardo Lopez Lopez",
+  "Cantidad de integrantes": "8"
+},{
+  "_id": "00003",
+  "Nombre del equipo": "Gaviotas",
+  "Capitan": "Manuel Encarnación Alarcón",
+  "Cantidad de integrantes": "8"
+},{
+  "_id": "00004",
+  "Nombre del equipo": "Panteras",
+  "Capitan": "Rafael Arnulfo Carrera Chicas",
+  "Cantidad de integrantes": "8"
+},{
+  "_id": "00005",
+  "Nombre del equipo": "Aguilas",
+  "Capitan": "Alejandro del Carmen Ramirez Chajón",
+  "Cantidad de integrantes": "8"
+},{
+  "_id": "00006",
+  "Nombre del equipo": "Leones",
+  "Capitan": "Cesar Antonio Ambrosio Rosales",
+  "Cantidad de integrantes": "8"
+},{
+  "_id": "00007",
+  "Nombre del equipo": "Toros",
+  "Capitan": "Edgar Mardoqueo Flores Solares",
+  "Cantidad de integrantes": "8"
+},{
+  "_id": "00008",
+  "Nombre del equipo": "Escorpiones",
+  "Capitan": "Erick Adolfo España Gonzalez",
+  "Cantidad de integrantes": "8"
+}]
